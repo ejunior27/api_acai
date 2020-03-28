@@ -1,0 +1,15 @@
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\bin\Debug\netcoreapp2.0\api_acai.deps.json
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\bin\Debug\netcoreapp2.0\api_acai.runtimeconfig.json
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\bin\Debug\netcoreapp2.0\api_acai.runtimeconfig.dev.json
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\bin\Debug\netcoreapp2.0\api_acai.dll
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\bin\Debug\netcoreapp2.0\api_acai.pdb
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\obj\Debug\netcoreapp2.0\api_acai.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\obj\Debug\netcoreapp2.0\api_acai.AssemblyInfoInputs.cache
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\obj\Debug\netcoreapp2.0\api_acai.AssemblyInfo.cs
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\obj\Debug\netcoreapp2.0\api_acai.dll
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\obj\Debug\netcoreapp2.0\api_acai.pdb
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\obj\Debug\netcoreapp2.0\api_acai.genruntimeconfig.cache
+C:\Users\Eduardo Junior\source\repos\api_acai\api_acai\obj\Debug\netcoreapp2.0\api_acai.csprojAssemblyReference.cache
